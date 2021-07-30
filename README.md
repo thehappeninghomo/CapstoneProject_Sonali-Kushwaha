@@ -3,7 +3,7 @@
 ## Handwritten-Digit-Recognition(based on CNN)
 
 ### To run the code:
-1. Clone the repository on your computer. 
+1. Clone the repository on your computer https://github.com/thehappeninghomo/CapstoneProject_Sonali-Kushwaha.git .
 2. Make sure you have proper environment containing required libraries. 
 3. Two jupyter notebooks are there:-
 Training model: trainingModel.ipynb (It contains evaluation using MNIST test dataset).
