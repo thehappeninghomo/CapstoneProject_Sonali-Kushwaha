@@ -15,6 +15,6 @@ Testing model: ```testingModel.ipynb``` (It contains evaluation using MS-Paint[n
 ### For Your Ease: A python file named ```testModel.py``` contains similar code as that of the ```testingModel.ipynb``` and is executable from command line. 
 
 ### Limitations:
-1. This model is trained only for digit recognition. So, it won't be giving desired results for character input.
+1. This model is trained only for digit recognition. So, it won't be giving desired results for othe character inputs.
 2. Manual input of the image name is needed.
 3. It may or may not work for filenames with extensions other than ```.png```.
